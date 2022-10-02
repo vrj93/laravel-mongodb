@@ -1,2 +1,2 @@
-# laravel-mongodb
+# Laravel-mongodb
 Laravel APIs with MongoDB
